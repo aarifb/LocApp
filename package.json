@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "npm": "^6.12.0",
     "react": "16.9.0",
     "react-native": "0.61.1",
